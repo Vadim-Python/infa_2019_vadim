@@ -1,6 +1,4 @@
 from graph import*
-import random
-# import random
 # def needle():
 # 	brushColor("#241c1c")
 # 	penColor("#120d0d")
